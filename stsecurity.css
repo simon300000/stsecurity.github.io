@@ -1,3 +1,6 @@
 body {
   background: url("fault2.png") no-repeat #000000 fixed top;
 }
+.main {
+  background: #ffffff;
+}

@@ -1,8 +1,15 @@
 body {
   background: url("33717992cfed2c54bf69e22cef948e8c5c5f3f19.jpg") no-repeat #000000 fixed top;
 }
-.main {
+.bg {
   background: #ffffff;
+  border-width: 0px;
+  margin-left: 30%;
+  margin-right:30%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.main {
   border-width: 0px;
   margin-left: 30%;
   margin-right:30%;
@@ -14,7 +21,6 @@ body {
   padding-bottom: 1%;
 }
 header {
-  background: #ffffff;
   border-width: 0px;
   margin-left: 30%;
   margin-right: 30%;

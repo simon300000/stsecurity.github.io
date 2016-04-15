@@ -19,9 +19,11 @@ header {
   text-align: center;
   margin-top: 0%;
   margin-bottom: 0%;
+  border-width: 0px;
 }
 footer {
   background: #ffffff;
   margin-top: 0%;
   margin-bottom: 0%;
+  border-width: 0px;
 }

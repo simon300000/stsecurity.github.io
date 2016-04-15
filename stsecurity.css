@@ -34,4 +34,5 @@ footer {
 a {
   text-decoration: none;
   color: #ffff00;
+  text-shadow: #ffffff 3px 3px 2px;
 }

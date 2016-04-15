@@ -5,6 +5,8 @@ body {
   background: #ffffff;
   margin-left: 30%;
   margin-right:30%;
+  margin-top: 0%;
+  margin-bottom: 0%;
   padding-left: 4%;
   padding-right: 2%;
   padding-top: 1%;
@@ -14,4 +16,6 @@ header {
   background: #ffffff;
   margin-left: 30%;
   margin-right: 30%;
+  margin-top: 0%;
+  margin-bottom: 0%;
 }

@@ -10,3 +10,8 @@ body {
   padding-top: 1%;
   padding-bottom: 1%;
 }
+header {
+  background: #ffffff;
+  margin-left: 30%;
+  margin-right: 30%;
+}

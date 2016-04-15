@@ -3,6 +3,7 @@ body {
 }
 .main {
   background: #ffffff;
+  border-width: 0px;
   margin-left: 30%;
   margin-right:30%;
   margin-top: 0%;
@@ -14,6 +15,7 @@ body {
 }
 header {
   background: #ffffff;
+  border-width: 0px;
   margin-left: 30%;
   margin-right: 30%;
   margin-top: 0%;

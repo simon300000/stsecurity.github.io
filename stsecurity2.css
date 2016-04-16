@@ -1,0 +1,50 @@
+body {
+  background: url("43083129.jpg") no-repeat #000000 fixed 100% 0%;
+  color: #ffffff;
+  padding: 0px;
+  margin: 0px;
+}
+.bg {
+  background: #000000;
+  border-width: 0px;
+  margin-left: 30%;
+  margin-right:30%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.main {
+  padding-left: 7%;
+  padding-right: 2%;
+}
+header {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  border-width: 0px;
+}
+footer {
+  background: #000000;
+  margin: 0px;
+  border-width: 0px;
+  padding-left: 4%;
+  padding-top: 7px;
+  padding-bottom: 1px;
+  vertical-align: bottom;
+}
+a:link {
+  text-decoration: underline;
+  color: #ffffff;
+}
+a:visited{
+  text-decoration: underline;
+  color: #ffffff;
+}
+a:hover{
+  text-decoration: underline;
+  color: #ffffff;
+  font-weight: bold;
+}
+a:active{
+  text-decoration: underline;
+  color: #ffffff;
+}

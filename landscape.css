@@ -2,6 +2,7 @@ body {
   background: url("3097009.jpg") repeat #000000 fixed 0% 0%;
   color: #ffffff;
   min-width: 720px;
+  width: expression(document.body.clientWidth < 720? "720px": "auto" );
   padding: 0px;
   margin: 0px;
 }

@@ -6,7 +6,7 @@ body {
   width: 100%;
 }
 .control {
-  min-width: 720px;
+  width: 720px;
   overflow: scroll;
 }
 .bg {

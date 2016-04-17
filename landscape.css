@@ -7,7 +7,7 @@ body {
 }
 .control {
   min-width: 720px;
-  width: expression(document.body.clientWidth < 720? "720px": "auto" );
+  overflow: auto;
 }
 .bg {
   background: #000000;

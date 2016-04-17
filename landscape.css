@@ -7,7 +7,7 @@ body {
 }
 .control {
   min-width: 720px;
-  overflow: auto;
+  overflow: scroll;
 }
 .bg {
   background: #000000;

@@ -4,7 +4,7 @@ body {
   padding: 0px;
   margin: 0px;
 }
-div {
+.control {
   min-width: 720px;
   width: expression(document.body.clientWidth < 720? "720px": "auto" );
 }

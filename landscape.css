@@ -4,10 +4,10 @@ body {
   padding: 0px;
   margin: 0px;
   width: 100%;
+  min-width: 1200px;
+  overflow: scroll;
 }
 .control {
-  min-width: 1280px;
-  overflow: scroll;
 }
 .bg {
   background: #000000;

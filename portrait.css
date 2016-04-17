@@ -1,11 +1,11 @@
 body {
-  background: url("3097009.jpg") repeat #000000 fixed 0% 0%;
-  color: #ffffff;
+  background: url("38667100_big_p16.png") no-repeat #ffffff fixed 0% 100%;
+  color: #000000;
   padding: 0px;
   margin: 0px;
 }
 .bg {
-  background: #000000;
+  background: #ffffff;
   border-width: 0px;
   margin-left: 30%;
   margin-right:30%;
@@ -23,7 +23,7 @@ header {
   border-width: 0px;
 }
 footer {
-  background: #000000;
+  background: #ffffff;
   margin: 0px;
   border-width: 0px;
   padding-left: 4%;
@@ -33,18 +33,18 @@ footer {
 }
 a:link {
   text-decoration: underline;
-  color: #ffffff;
+  color: #000000;
 }
 a:visited{
   text-decoration: underline;
-  color: #ffffff;
+  color: #000000;
 }
 a:hover{
   text-decoration: underline;
-  color: #ffffff;
+  color: #000000;
   font-weight: bold;
 }
 a:active{
   text-decoration: underline;
-  color: #ffffff;
+  color: #000000;
 }

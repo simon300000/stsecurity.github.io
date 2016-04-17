@@ -3,6 +3,7 @@ body {
   color: #ffffff;
   padding: 0px;
   margin: 0px;
+  width: 100%;
 }
 .control {
   min-width: 720px;

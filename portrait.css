@@ -1,10 +1,11 @@
 body {
   background: url("38667100_big_p16.png") no-repeat #ffffff fixed 0% 100%;
-  color: #000000;
+  color: #ffffff;
   padding: 0px;
   margin: 0px;
 }
 .bg {
+  color: #000000;
   background: #ffffff;
   border-width: 0px;
   margin-left: 50%;
